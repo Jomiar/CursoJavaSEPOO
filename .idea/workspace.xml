@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66f225b6-cdc8-4b38-bdad-300cb65e19af" name="Changes" comment="Se agrego los meses como una constante y se agrego un for en el método show Patientmenú en el switch case 1">
-      <change afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ui/UImenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ui/UImenu.java" afterDir="false" />
-    </list>
+    <list default="true" id="66f225b6-cdc8-4b38-bdad-300cb65e19af" name="Changes" comment="Se trabajo agrego el tema 12 al README.md y se agrego Atributos a la Clase Patient.java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661108112867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Se trabajo agrego el tema 12 al README.md y se agrego Atributos a la Clase Patient.java">
+      <created>1661119023726</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661119023726</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,6 +106,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- Se creo el Package UI y la clase UImenu.java Donde se crea los metodo ShowMenu y showPatientMenu" />
     <MESSAGE value="Se agrego los meses como una constante y se agrego un for en el método show Patientmenú en el switch case 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrego los meses como una constante y se agrego un for en el método show Patientmenú en el switch case 1" />
+    <MESSAGE value="Se trabajo agrego el tema 12 al README.md y se agrego Atributos a la Clase Patient.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se trabajo agrego el tema 12 al README.md y se agrego Atributos a la Clase Patient.java" />
   </component>
 </project>
